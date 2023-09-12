@@ -2,7 +2,10 @@
 This is the repo for paper: FinVis-GPT: A Multimodal Large Language Model for Financial Chart Analysis(https://arxiv.org/abs/2308.01430)
 
 Dataset download link：https://huggingface.co/datasets/wza/FinVis
+
 Model download link：https://huggingface.co/wza/FinVis-GPT
+
+The model is trained on top of https://github.com/haotian-liu/LLaVA, the demo can be loaded following instructions in LLaVA
 
 ## Introduction
 FinVis-GPT, a multimodal LLM designed for financial chart analysis.
