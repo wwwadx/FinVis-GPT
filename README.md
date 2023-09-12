@@ -3,8 +3,6 @@ This is the repo for paper: FinVis-GPT: A Multimodal Large Language Model for Fi
 
 Dataset download link：https://huggingface.co/datasets/wza/FinVis
 
-Model download link：https://huggingface.co/wza/FinVis-GPT
-
 The model is trained on top of https://github.com/haotian-liu/LLaVA, the demo can be loaded following instructions in LLaVA
 
 ## Introduction
