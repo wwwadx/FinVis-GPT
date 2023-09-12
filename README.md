@@ -14,6 +14,8 @@ Pre-train: 200k
 
 Instruction tuning: 100k
 
+Data download link：https://huggingface.co/datasets/wza/FinVis
+
 ## Experiment Result
 <img width="969" alt="image" src="https://github.com/wwwadx/FinVis-GPT/assets/30383023/7fc94fa0-3ed0-42b1-bfcb-2cc34a0d0cc8">
 <img width="974" alt="image" src="https://github.com/wwwadx/FinVis-GPT/assets/30383023/f3564a1a-4275-4072-9b3b-7ab3fb0161e7">
